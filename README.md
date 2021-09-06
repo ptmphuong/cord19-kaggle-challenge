@@ -3,4 +3,4 @@ and find out about the virus's incubation period using pandas and regex.
 
 Dataset downloaded on 4/3/2020
 
-The writeup of the findings is posted on my blog post: [What do covid-19 researchers have for the incubation period of covid-19?](https://tuihoccode.com/project/2020/04/07/cac-nha-nghien-cuu-nghi-gi-ve-thoi-ky-u-benh-cua-covid-19.html)
+The writeup of the findings is posted on my blog post (written in Vietnamese): [What do covid-19 researchers have for the incubation period of covid-19?](https://tuihoccode.com/project/2020/04/07/cac-nha-nghien-cuu-nghi-gi-ve-thoi-ky-u-benh-cua-covid-19.html)
